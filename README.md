@@ -16,4 +16,3 @@
 ### How Did the Pattern Simplify or Optimize the Design?
 
 - The pattern reduces memory usage by reusing shared marker styles for different markers. It centralizes style creation, ensuring that only unique styles are created and reused across many markers, thus optimizing memory consumption and improving performance
-![Кампус_Университета_Нархоз](https://github.com/user-attachments/assets/f190e953-3e41-4293-84d5-456a900e3209)
